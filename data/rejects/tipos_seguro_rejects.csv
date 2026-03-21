@@ -1,0 +1,5 @@
+id_tipo_seguro,tipo,categoria,riesgo_base,motivo_rechazo
+1,Pyme,Familiar,,riesgo_base_nulo
+4,Industrial,Personal,,riesgo_base_nulo
+9,Accidentes,nan,5.68,categoria_invalida
+12,Agrícola,nan,,"categoria_invalida,riesgo_base_nulo"
