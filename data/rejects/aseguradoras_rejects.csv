@@ -1,0 +1,8 @@
+id_aseguradora,nombre,pais,rating_riesgo,motivo_rechazo
+3,Aseguradora 3,El Salvador,,rating_invalido
+5,Aseguradora 5,El Salvador,B,rating_invalido
+6,Aseguradora 6,,MEDIO,pais_nulo
+9,Aseguradora 9,,BAJO,pais_nulo
+10,Aseguradora 10,Panamá,,rating_invalido
+11,Aseguradora 11,Honduras,D,rating_invalido
+14,Aseguradora 14,El Salvador,,rating_invalido
